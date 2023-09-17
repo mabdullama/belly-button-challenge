@@ -1,7 +1,5 @@
 # belly-button-challenge
 
-# Bellybutton Biodiversity Dashboard
-
 This interactive dashboard allows you to explore belly button biodiversity data.
 
 ## Usage
